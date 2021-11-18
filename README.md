@@ -1,5 +1,5 @@
 # micro-app
-## 京东微前端框架 micro-app with Vue and React
+## 京东微前端框架 Micro Frontends With Vue And React By micro-app
 
 ### 基于React的基座应用
 ```
